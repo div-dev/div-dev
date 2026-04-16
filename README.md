@@ -45,9 +45,8 @@ Python, SQL, C++, JavaScript, Bash • FastAPI, Django, DRF • Apache Kafka, Ap
 
 ### 🤝 Contact
 
-Email: **your.email@domain.com**
-LinkedIn: **[/in/divyansh-chawla-751b1a230](https://www.linkedin.com/in/divyansh-chawla-751b1a230/)** • GitHub: **[@div-dev](https://github.com/div-dev)** • Portfolio: **[divyanshchawla.vercel.app](https://divyanshchawla.vercel.app/)**
+Email: **divyanshchawla12@gmail.com**
+LinkedIn: **[divyansh-chawla](https://www.linkedin.com/in/divyansh-chawla-751b1a230/)** • GitHub: **[@div-dev](https://github.com/div-dev)** • Portfolio: **[divyanshchawla.vercel.app](https://divyanshchawla.vercel.app/)**
 
 ---
 
-> *"Code that survives production traffic is the only code that matters."*
