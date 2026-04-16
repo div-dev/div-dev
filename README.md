@@ -2,6 +2,10 @@
 <h3 align="center">Senior Python Developer · Backend & Distributed Systems</h3>
 
 <p align="center">
+  <img src="https://media.tenor.com/pI3ggZrUuQMAAAAi/coding-coding-cat.gif" width="180" alt="coding cat" />
+</p>
+
+<p align="center">
   <a href="https://divyanshchawla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/divyansh-chawla-751b1a230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://divyanshchawla.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-FF4088?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
@@ -23,6 +27,10 @@
 > Side: distributed systems × AI
 ```
 
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/cat-keyboard.gif" width="160" alt="cat typing" />
+</p>
+
 ---
 
 ### 🛠️ Stack
@@ -31,22 +39,20 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb,redis,docker,kafka,gcp,linux,git,bash,cpp&theme=dark" />
 </p>
 
-**Languages** — Python, SQL, C++, JavaScript, Bash
-**Backend** — FastAPI, Django, DRF, Apache Airflow
-**Infra** — Kafka, Docker, Redis, ETL Pipelines
-**Databases** — PostgreSQL, MySQL, MongoDB, SQLite
-**Tools** — Git, Linux, Docker Compose, Jenkins, GCP
+**Languages** — Python, SQL, C++, JavaScript, Bash  
+**Backend** — FastAPI, Django, DRF, Apache Airflow  
+**Infra** — Kafka, Docker, Redis, ETL Pipelines  
+**Databases** — PostgreSQL, MySQL, MongoDB, SQLite  
+**Tools** — Git, Linux, Docker Compose, Jenkins, GCP  
 
 ---
 
 ### 📌 Selected Projects
 
-- **[LogIntel](https://github.com/div-dev)** — Real-time log ingestion with Kafka, FastAPI, anomaly detection, and Claude-powered summarization
-- **[Formbricks Lifecycle Automation](https://github.com/div-dev)** — Python CLI that spins up full Formbricks stacks via Docker Compose, generating synthetic data via OpenAI/Claude/Ollama
-- **[LogStream](https://github.com/div-dev)** — C++ NVM logging simulator with MESI cache-coherency; multithreading cut latency by 45%
-- **[HealthBot](https://github.com/div-dev/HealthBot)** — TensorFlow/Keras intent classifier with custom NLP pipeline
-
-> 👉 Replace the first three links above with actual repo URLs once you push them.
+- **LogIntel** — Real-time log ingestion with Kafka, FastAPI, anomaly detection, and Claude-powered summarization
+- **Formbricks Lifecycle Automation** — Python CLI that spins up full Formbricks stacks via Docker Compose, generating synthetic data via OpenAI/Claude/Ollama
+- **LogStream** — C++ NVM logging simulator with MESI cache-coherency; multithreading cut latency by 45%
+- **HealthBot** — TensorFlow/Keras intent classifier with custom NLP pipeline
 
 ---
 
@@ -66,5 +72,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/YTPLqiB6gLsAAAAi/cat-coding.gif" width="140" alt="cat coding" />
+</p>
 
 <p align="center"><i>Backend Engineering — Distributed Systems — Data Pipelines — API Design</i></p>
